@@ -14,6 +14,7 @@ The app is really simple to use. Here's a short tutorial.
 ### 1. Creating an Account
 
 Creating an account is really simple. You just have to enter "r" when prompted. Enter a username and password of your choice.
+
 **NOTE**:- When you enter your password, you will not be able to see it. This is normal.
 
 Even after you quit, your information will be remembered next time you log in. To log in, enter "l" when prompted. This is almost identical to registering.
